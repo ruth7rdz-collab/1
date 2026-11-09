@@ -13,6 +13,12 @@
       "skillPath": "skills/anti-ui-slop/SKILL.md",
       "computedHash": "ef2b42a1b2b21836f6c8df084ee6397c38c209fdaaedfb40159d183d01269759"
     },
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4"
+    },
     "caveman": {
       "source": "juliusbrussee/caveman",
       "sourceType": "github",
@@ -42,6 +48,12 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "e40cc1d348f6d935e28f1e24474302d7368f0a400429271a43b35fe154891dc5"
+    },
+    "video-lens": {
+      "source": "kar2phi/video-lens",
+      "sourceType": "github",
+      "skillPath": "skills/video-lens/SKILL.md",
+      "computedHash": "69075e9422f010a52ac7f29afeebf457224b9a13771a770f548ec1c2411ec4e2"
     }
   }
 }
